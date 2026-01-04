@@ -11,7 +11,7 @@ AutoRefine performs static analysis across project directories, presents results
 
 ## Screenshots
 
-![AutoRefine Main Interface](https://github.com/NeuralCortex/AutoRefine/blob/main/images/auto.png)
+![AutoRefine Main Interface](https://github.com/NeuralCortex/AutoRefine/blob/main/auto.png)
 
 ## Features
 
